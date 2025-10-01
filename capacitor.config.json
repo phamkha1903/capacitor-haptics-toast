@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.hapticstoast",
+  "appName": "HapticsToast",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
