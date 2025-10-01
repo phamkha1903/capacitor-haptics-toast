@@ -1,0 +1,1 @@
+# capacitor-haptics-toast
